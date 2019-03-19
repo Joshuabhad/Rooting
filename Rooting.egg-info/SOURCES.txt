@@ -1,0 +1,10 @@
+README.md
+setup.py
+Rooting.egg-info/PKG-INFO
+Rooting.egg-info/SOURCES.txt
+Rooting.egg-info/dependency_links.txt
+Rooting.egg-info/requires.txt
+Rooting.egg-info/top_level.txt
+subroot/__init__.py
+subroot/recursion.py
+subroot/sorting.py
